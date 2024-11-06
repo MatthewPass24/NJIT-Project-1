@@ -1,82 +1,64 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
+            "imgPath": "img/places/simple-explanation.jpg",
+            "imgLocation": "Simple Explanation",
             "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "episode": "(S5 E20)"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
+            "imgPath": "img/places/no-reason.jpg",
+            "imgLocation": "No Reason",
             "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "date": "(S2 E24)"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
+            "imgPath": "img/places/last-resort.jpg",
+            "imgLocation": "Last Resort",
             "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "date": "(S5 E9)"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
-        },
-        {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
+            "imgPath": "img/places/euphoria.jpg",
+            "imgLocation": "Euphoria (2)",
             "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "date": "(S2 E20)"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
+            "imgPath": "img/places/help-me.jpg",
+            "imgLocation": "Help Me",
             "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "date": "(S6 E22)"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
+            "imgPath": "img/places/three-stories.jpg",
+            "imgLocation": "Three Stories",
             "description": "Venice",
-            "date": "01/07/2016"
+            "date": "(S1 E21)"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
+            "imgPath": "img/places/c-word.jpg",
+            "imgLocation": "The C-Word",
             "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "date": "(S8 E19)"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
+            "imgPath": "img/places/everbody-dies.jpg",
+            "imgLocation": "Everybody Dies",
             "description": "Seoul",
-            "date": "01/09/2016"
+            "date": "(S8 E22)"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
+            "imgPath": "img/places/wilson's heart.jpg",
+            "imgLocation": "Wilson's Heart",
             "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "date": "(S4 E16)"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
+            "imgPath": "img/places/house's-head.jpg",
+            "imgLocation": "House's Head",
             "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "date": "(S4 E15)"
         }
   ]
 }
