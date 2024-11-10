@@ -1,63 +1,63 @@
 {
     "images": [
         {
-            "imgPath": "img/places/simple-explanation.jpg",
-            "imgLocation": "Simple Explanation",
-            "description": "Loch Ard Gorge",
+            "imgPath": "img/episode/simple-explanation.jpg",
+            "episodeName": "Simple Explanation",
+            "description": "Taub treats a patient whose dying husband gets better as she becomes sicker, while the rest of the team deals with a devastating loss.",
             "episode": "(S5 E20)"
         },
         {
-            "imgPath": "img/places/no-reason.jpg",
-            "imgLocation": "No Reason",
-            "description": "Austrian chapel",
+            "imgPath": "img/episode/no-reason.jpg",
+            "episodeName": "No Reason",
+            "description": "An old paitent of House comes back and seeks revenge upon him in the form of a gunshot.",
             "date": "(S2 E24)"
         },
         {
-            "imgPath": "img/places/last-resort.jpg",
-            "imgLocation": "Last Resort",
-            "description": "Eiffel Tower",
+            "imgPath": "img/episode/last-resort.jpg",
+            "episodeName": "Last Resort",
+            "description": "A person takes House, Thirteen and others as hostages to find an answer.",
             "date": "(S5 E9)"
         },
         {
-            "imgPath": "img/places/euphoria.jpg",
-            "imgLocation": "Euphoria (2)",
-            "description": "Budapest skyline",
+            "imgPath": "img/episode/euphoria.jpg",
+            "episodeName": "Euphoria (2)",
+            "description": "House tries radical procedures to save Foreman's life as his symptoms progress.",
             "date": "(S2 E20)"
         },
         {
-            "imgPath": "img/places/help-me.jpg",
-            "imgLocation": "Help Me",
-            "description": "Taj Mahal",
+            "imgPath": "img/episode/help-me.jpg",
+            "episodeName": "Help Me",
+            "description": "Cuddy, House, and members of the team join forces with a rescue team at the scene of an emergency.",
             "date": "(S6 E22)"
         },
         {
-            "imgPath": "img/places/three-stories.jpg",
-            "imgLocation": "Three Stories",
-            "description": "Venice",
+            "imgPath": "img/episode/three-stories.jpg",
+            "episodeName": "Three Stories",
+            "description": "House takese over a diagnostic class and presents the class with three case studies of leg pain.",
             "date": "(S1 E21)"
         },
         {
-            "imgPath": "img/places/c-word.jpg",
-            "imgLocation": "The C-Word",
-            "description": "Hirosaki Castle",
+            "imgPath": "img/episode/c-word.jpg",
+            "episodeName": "The C-Word",
+            "description": "House and Wilson deal with Wilson's stage two cancer, determining the best course of action.",
             "date": "(S8 E19)"
         },
         {
-            "imgPath": "img/places/everbody-dies.jpg",
-            "imgLocation": "Everybody Dies",
-            "description": "Seoul",
+            "imgPath": "img/episode/everbody-dies.jpg",
+            "episodeName": "Everybody Dies",
+            "description": "House tries to find a way to avoid jail and spend the time by Wilson's side instead.",
             "date": "(S8 E22)"
         },
         {
-            "imgPath": "img/places/wilson's heart.jpg",
-            "imgLocation": "Wilson's Heart",
-            "description": "Countryside mountains",
+            "imgPath": "img/episode/wilson's heart.jpg",
+            "episodeName": "Wilson's Heart",
+            "description": "Wilson grapples with his girlfriend's death and Thirteen discovers she has Huntington's.",
             "date": "(S4 E16)"
         },
         {
-            "imgPath": "img/places/house's-head.jpg",
-            "imgLocation": "House's Head",
-            "description": "Lake castle",
+            "imgPath": "img/episode/house's-head.jpg",
+            "episodeName": "House's Head",
+            "description": "House suffers head trauma and short-term memory loss after a crash, trying to remember who needs his help.",
             "date": "(S4 E15)"
         }
   ]
