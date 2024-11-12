@@ -9,6 +9,11 @@ $(document).ready(() => {
   // Call a function here to start the timer for the slideshow
 
   // Select the moreIndicator button and add a click event to:
+  $('.moreIndicator').on('click', function() {
+    $('.moreIndicator').toggleClass('rot90 rot270')
+    $('.details').slideToggle()
+    
+  })
   // - toggle the rotation classes (rot90 and rot270)
   // - slideToggle the visibility of the .details section
 
@@ -24,8 +29,8 @@ $(document).ready(() => {
 function fetchJSON () {
   // Use $.ajax here to request the JSON data from mUrl
   $.ajax({
-    type: "method",
-    url: "mUrl",
+    type: "GET",
+    url: mUrl,
     dataType: "json",  
     // On success, parse the JSON and push each image object into mImages array
     success: function (data) {
@@ -46,6 +51,11 @@ function fetchJSON () {
 // Function to swap and display the next photo in the slideshow
 function swapPhoto () {
   // Access mImages[mCurrentIndex] to update the image source and details
+  let currentImg = mImages[mCurrentIndex]
+  $('#photo').attr("src", "img/episode/simple-explanation.jpg")
+  $('.name').text(`Name: ${currentImg.name}`)
+  $('.description').text(`Description: ${currentImg.description}`)
+  $('.episode').text(`Episode: ${currentImg.episode}`)
   // Update the #photo element's src attribute with the current image's path
   // Update the .location, .description, and .date elements with the current image's details
 }

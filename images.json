@@ -2,61 +2,61 @@
     "images": [
         {
             "imgPath": "img/episode/simple-explanation.jpg",
-            "episodeName": "Simple Explanation",
+            "name": "Simple Explanation",
             "description": "Taub treats a patient whose dying husband gets better as she becomes sicker, while the rest of the team deals with a devastating loss.",
             "episode": "(S5 E20)"
         },
         {
             "imgPath": "img/episode/no-reason.jpg",
-            "episodeName": "No Reason",
+            "name": "No Reason",
             "description": "An old paitent of House comes back and seeks revenge upon him in the form of a gunshot.",
             "episode": "(S2 E24)"
         },
         {
             "imgPath": "img/episode/last-resort.jpg",
-            "episodeName": "Last Resort",
+            "name": "Last Resort",
             "description": "A person takes House, Thirteen and others as hostages to find an answer.",
             "episode": "(S5 E9)"
         },
         {
             "imgPath": "img/episode/euphoria.jpg",
-            "episodeName": "Euphoria (2)",
+            "name": "Euphoria (2)",
             "description": "House tries radical procedures to save Foreman's life as his symptoms progress.",
             "episode": "(S2 E20)"
         },
         {
             "imgPath": "img/episode/help-me.jpg",
-            "episodeName": "Help Me",
+            "name": "Help Me",
             "description": "Cuddy, House, and members of the team join forces with a rescue team at the scene of an emergency.",
             "episode": "(S6 E22)"
         },
         {
             "imgPath": "img/episode/three-stories.jpg",
-            "episodeName": "Three Stories",
+            "name": "Three Stories",
             "description": "House takese over a diagnostic class and presents the class with three case studies of leg pain.",
             "episode": "(S1 E21)"
         },
         {
             "imgPath": "img/episode/c-word.jpg",
-            "episodeName": "The C-Word",
+            "name": "The C-Word",
             "description": "House and Wilson deal with Wilson's stage two cancer, determining the best course of action.",
             "episode": "(S8 E19)"
         },
         {
             "imgPath": "img/episode/everbody-dies.jpg",
-            "episodeName": "Everybody Dies",
+            "name": "Everybody Dies",
             "description": "House tries to find a way to avoid jail and spend the time by Wilson's side instead.",
             "episode": "(S8 E22)"
         },
         {
             "imgPath": "img/episode/wilson's heart.jpg",
-            "episodeName": "Wilson's Heart",
+            "name": "Wilson's Heart",
             "description": "Wilson grapples with his girlfriend's death and Thirteen discovers she has Huntington's.",
             "episode": "(S4 E16)"
         },
         {
             "imgPath": "img/episode/house's-head.jpg",
-            "episodeName": "House's Head",
+            "name": "House's Head",
             "description": "House suffers head trauma and short-term memory loss after a crash, trying to remember who needs his help.",
             "episode": "(S4 E15)"
         }
