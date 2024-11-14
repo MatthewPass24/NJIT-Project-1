@@ -18,9 +18,13 @@ $(document).ready(() => {
   // - slideToggle the visibility of the .details section
 
   // Select the "Next Photo" button and add a click event to call showNextPhoto
-
+$('#nextPhoto').on('click', function(){
+  showNextPhoto()
+})
   // Select the "Previous Photo" button and add a click event to call showPrevPhoto
-
+$('#prevPhoto').on('click', function(){
+  showPrevPhoto()
+})
   // Call fetchJSON() to load the initial set of images
   fetchJSON()
 })
@@ -52,7 +56,7 @@ function fetchJSON () {
 function swapPhoto () {
   // Access mImages[mCurrentIndex] to update the image source and details
   let currentImg = mImages[mCurrentIndex]
-  $('#photo').attr("src", "img/episode/simple-explanation.jpg")
+  $('#photo').attr("src", currentImg.imgPath)
   $('.name').text(`Name: ${currentImg.name}`)
   $('.description').text(`Description: ${currentImg.description}`)
   $('.episode').text(`Episode: ${currentImg.episode}`)
@@ -62,12 +66,20 @@ function swapPhoto () {
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
 function showNextPhoto () {
+  mCurrentIndex++
+  if(mCurrentIndex == 10)
+    mCurrentIndex = 0;
+  swapPhoto();
   // Increment mCurrentIndex and call swapPhoto()
   // Ensure it loops back to the beginning if mCurrentIndex exceeds array length
 }
 
 // Goes to the previous photo, loops to the last photo if mCurrentIndex goes negative
 function showPrevPhoto () {
+  mCurrentIndex--
+  if(mCurrentIndex == -1)
+    mCurrentIndex = 9;
+  swapPhoto();
   // Decrement mCurrentIndex and call swapPhoto()
   // Ensure it loops to the end if mCurrentIndex is less than 0
 }
