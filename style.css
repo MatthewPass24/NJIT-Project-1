@@ -10,6 +10,8 @@ body {
 #photoBooth {
     padding: 25px; /* Increased padding for better spacing */
     max-width: 500px; /* Increased max-width for larger display */
+    margin-top: 10em;
+    align-items: center;
     width: 90%; /* Keeps width responsive */
     margin: auto;
     background-color: rgba(255, 255, 255, 0.9);
@@ -21,6 +23,7 @@ body {
 .photoHolder {
     width: 100%;
     text-align: center;
+    align-items: center;
 }
 
 /* Style for the photo displayed in the slideshow */
@@ -29,6 +32,7 @@ body {
     max-width: 100%;
     height: auto;
     border-radius: 4px;
+    
     /* Optional: Add shadow here */
 }
 

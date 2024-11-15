@@ -7,7 +7,7 @@
             "episode": "(S5 E20)"
         },
         {
-            "imgPath": "img/episode/no-reason.jpg",
+            "imgPath": "img/episode/no-reason.webp",
             "name": "No Reason",
             "description": "An old paitent of House comes back and seeks revenge upon him in the form of a gunshot.",
             "episode": "(S2 E24)"
@@ -19,7 +19,7 @@
             "episode": "(S5 E9)"
         },
         {
-            "imgPath": "img/episode/euphoria.jpg",
+            "imgPath": "img/episode/euphoria(2).jpg",
             "name": "Euphoria (2)",
             "description": "House tries radical procedures to save Foreman's life as his symptoms progress.",
             "episode": "(S2 E20)"
@@ -37,25 +37,25 @@
             "episode": "(S1 E21)"
         },
         {
-            "imgPath": "img/episode/c-word.jpg",
+            "imgPath": "img/episode/c word.jpg",
             "name": "The C-Word",
             "description": "House and Wilson deal with Wilson's stage two cancer, determining the best course of action.",
             "episode": "(S8 E19)"
         },
         {
-            "imgPath": "img/episode/everbody-dies.jpg",
+            "imgPath": "img/episode/everybody-dies.jpg",
             "name": "Everybody Dies",
             "description": "House tries to find a way to avoid jail and spend the time by Wilson's side instead.",
             "episode": "(S8 E22)"
         },
         {
-            "imgPath": "img/episode/wilson's heart.jpg",
+            "imgPath": "img/episode/wilson's-heart.jpg",
             "name": "Wilson's Heart",
             "description": "Wilson grapples with his girlfriend's death and Thirteen discovers she has Huntington's.",
             "episode": "(S4 E16)"
         },
         {
-            "imgPath": "img/episode/house's-head.jpg",
+            "imgPath": "img/episode/house's head.jpg",
             "name": "House's Head",
             "description": "House suffers head trauma and short-term memory loss after a crash, trying to remember who needs his help.",
             "episode": "(S4 E15)"
