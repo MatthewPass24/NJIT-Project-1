@@ -1,22 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
 body {
     overflow-x: hidden;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url('../img/geometry.jpg');
+    background-image: url('../img/house_bg.jpg');
     background-size: cover;
-    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;  
+    min-height: 100vh; 
+    display: flex;  
+    justify-content: center; 
+    align-items: center; 
+    margin: 0;  
 }
 
 /* Main container for the slideshow and metadata */
-#photoBooth {
-    padding: 25px; /* Increased padding for better spacing */
-    max-width: 500px; /* Increased max-width for larger display */
-    margin-top: 10em;
+.container {
+    display: flex;
+    justify-content: center;
     align-items: center;
-    width: 90%; /* Keeps width responsive */
+    width: 100%;
+    height: 100%; 
+    padding: 0 15px; 
+    
+}
+
+/* Photo Booth container styling */
+#photoBooth {
+    padding: 25px; 
+    max-width: 500px;
+    margin-top: 10em;
+    width: 90%;
     margin: auto;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Holds the displayed photo */
@@ -32,6 +50,7 @@ body {
     max-width: 100%;
     height: auto;
     border-radius: 4px;
+    background-color: rgb(255, 255, 255);
     
     /* Optional: Add shadow here */
 }
@@ -41,6 +60,9 @@ body {
     font-size: 2rem; /* Increased font size for better readability */
     font-weight: bold;
     color: #333;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     /* Optional: Customize the text color */
 }
 
